@@ -1,0 +1,13 @@
+{
+  "name": "emulate",
+  "version": "1.0.0",
+  "description": "Tiny JavaScript library to emulate :active styles on mobile",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/citrusui/emulate.git"
+  },
+  "main": "emulate.js",
+  "author": "Avery Magnotti",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "homepage": "https://css-tricks.com/snippets/css/remove-gray-highlight-when-tapping-links-in-mobile-safari/"
+}
