@@ -2,7 +2,7 @@
 
 ## What is this?
 
-A tiny JavaScript library<a name="asterisk">\*</a> to emulate `:active` styles on mobile devices.
+A tiny JavaScript library* to emulate `:active` styles on mobile devices.
 
 ## Why?
 
@@ -18,8 +18,8 @@ Yes. Everything must be modularized and served over a CDN.
 
 ## Notes
 
-<sup>[\*](#asterisk)</sup> Not an actual library. It's just funny to throw around when talking about JavaScript.
+<sup>\*</sup> Not an actual library. It's just funny to throw around when talking about JavaScript.
 
 I did not blatantly copy and paste this code from CSS-Tricks. The original version was a [jQuery snippet](https://twitter.com/citrusui/status/748185011577364480) which I learned to [adapt](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener) for use without jQuery. Upon a quick Google search, I realized CSS-Tricks [already did this](https://css-tricks.com/snippets/css/remove-gray-highlight-when-tapping-links-in-mobile-safari/) in 2011. So I thought I might as well credit them.
 
-Licensed under [CSS-Tricks](LICENSE.md). There's also a [jQuery version](emulate.jquery.js) because why not.
+Licensed under [CSS-Tricks](LICENSE.md).

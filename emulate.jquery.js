@@ -1,1 +1,0 @@
-$('a').bind('touchstart',function(){});

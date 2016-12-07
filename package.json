@@ -1,6 +1,6 @@
 {
   "name": "emulate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tiny JavaScript library to emulate :active styles on mobile",
   "repository": {
     "type": "git",
