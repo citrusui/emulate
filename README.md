@@ -1,5 +1,7 @@
 # emulate.js
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/citrusui/emulate.svg)](https://greenkeeper.io/)
+
 ## What is this?
 
 A tiny JavaScript library to emulate `:active` styles on mobile devices.
